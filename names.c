@@ -1,8 +1,3 @@
-## Read names from a file
-
-To read names from a text file and print them, you can use the following C program. Replace "names.txt" with the name of your text file.
-
-```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -27,5 +22,3 @@ int main() {
 
     return 0;
 }
-```
-
